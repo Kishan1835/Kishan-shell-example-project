@@ -12,3 +12,7 @@ z=a/b
 
 # percentage
 f=100%10
+
+# multiplication
+w=a*b
+
